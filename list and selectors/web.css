@@ -1,0 +1,30 @@
+H1{
+background-color: grey;
+color: black;
+text-align: center;
+}
+
+ul{
+
+    background-color: blueviolet;
+}
+ol{
+    background-color: rgb(148, 148, 180);
+}
+.yellow{
+
+    background-color: rgb(20, 20, 3);
+    color: greenyellow;
+}
+#orange{
+    background-color: rgb(244, 90, 29);
+    color: greenyellow;
+       width: 1600px;
+       text-align: end;
+}
+.orange{
+    text-align: justify ;
+}
+.width{
+    width: 500px;
+}
