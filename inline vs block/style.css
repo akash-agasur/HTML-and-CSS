@@ -1,0 +1,14 @@
+.square{
+    height: 300px;
+    width: 300px;
+    background-color: magenta;
+    border-radius: 50%;
+    /* border: none; */
+}
+
+.rect{
+    height: 400px;
+    width: 300px;
+    background-color: rgb(227, 241, 179);
+    border-radius: 50%;
+}
