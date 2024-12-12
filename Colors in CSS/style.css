@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* 
+1. color name- bluevoilet
+2. RGB Value - rgb(111,111,111) - (000,000,000) - (255,255,255)
+3. Hash Value - #00FF00
+4. RGBA - RGB + Alpha (transparacy)
+5. linear-gradient - (to top,pink, blue,white, crimson);
+*/
+
+h1{
+    color: blue;
+
+    font-display: ;
+    height: 100vh;
+    text-align: center;
+    background: linear-gradient(to bottom,orange, white, green);
+}
